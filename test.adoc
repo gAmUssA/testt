@@ -1,0 +1,12 @@
+= Hello, Mermaid!
+Doc Writer <doc@example.com>
+
+== First Section
+
+[mermaid]
+----
+classDiagram
+    class Item {
+      <<interface>>
+  }
+----
